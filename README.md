@@ -1,6 +1,6 @@
 # ft_transcendance (42 project)
 
-Group project. Website to play a pong game, and chat with your friends.
+Group project. Website to play a pong game and chat with your friends.
 
 - backend in nestJS
 - frontend in Svelte
